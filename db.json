@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Lois Brown Jr.",
+      "id": 3
+    },
+    {
+      "name": "Shari DuBuque III",
+      "id": 4
+    },
+    {
+      "name": "Johnnie Satterfield",
+      "id": 9
+    },
+    {
+      "name": "Ms. Edith Reinger",
+      "id": 11
+    },
+    {
+      "name": "Marco Rohan",
+      "id": 12
+    },
+    {
+      "name": "Leroy Harris",
+      "id": 16
+    },
+    {
+      "name": "Victoria Jacobs",
+      "id": 20
+    },
+    {
+      "name": "Leonard Lemke",
+      "id": 21
+    },
+    {
+      "name": "Lydia Fisher V",
+      "id": 22
+    },
+    {
+      "name": "Dwight Koss-Marks",
+      "id": 23
+    },
+    {
+      "name": "Terence Lind",
+      "id": 24
+    },
+    {
+      "name": "Janis Bednar",
+      "id": 25
+    },
+    {
+      "name": "Miss Vicky Rath",
+      "id": 26
+    },
+    {
+      "name": "Christy Wisozk",
+      "id": 27
+    },
+    {
+      "name": "Clara Bednar",
+      "id": 28
+    },
+    {
+      "name": "Josh Huel",
+      "id": 29
+    },
+    {
+      "name": "Kathleen Hoppe",
+      "id": 30
+    },
+    {
+      "name": "Sabrina Hartmann",
+      "id": 31
+    },
+    {
+      "name": "Craig Hane",
+      "id": 32
+    },
+    {
+      "name": "Alvin Kub",
+      "id": 33
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Wooden Towels",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Steel Car",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Modern Soft Chips",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Metal Fish",
+      "id": 18
+    },
+    {
+      "userId": 4,
+      "title": "Sleek Rubber Hat",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://picsum.photos/seed/oNkVnnk/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/640/480?lock=5481820682452992",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/640/480?lock=2021929699508224",
+      "id": 4
+    },
+    {
+      "albumId": 11,
+      "url": "https://picsum.photos/seed/hWOyC/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/640/480?lock=8164008873951232",
+      "id": 6
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=2613545915121664",
+      "id": 7
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/MHbuY/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/FDUgx/640/480",
+      "id": 9
+    }
+  ]
+}
