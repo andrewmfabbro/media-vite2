@@ -79,10 +79,6 @@
     {
       "name": "Craig Hane",
       "id": 32
-    },
-    {
-      "name": "Alvin Kub",
-      "id": 33
     }
   ],
   "albums": [
@@ -110,6 +106,31 @@
       "userId": 4,
       "title": "Sleek Rubber Hat",
       "id": 19
+    },
+    {
+      "userId": 32,
+      "title": "Oriental Frozen Computer",
+      "id": 21
+    },
+    {
+      "userId": 12,
+      "title": "Fantastic Metal Chips",
+      "id": 22
+    },
+    {
+      "userId": 16,
+      "title": "Tasty Granite Pants",
+      "id": 23
+    },
+    {
+      "userId": 9,
+      "title": "Refined Soft Mouse",
+      "id": 24
+    },
+    {
+      "userId": 11,
+      "title": "Practical Steel Cheese",
+      "id": 25
     }
   ],
   "photos": [
@@ -122,11 +143,6 @@
       "albumId": 11,
       "url": "https://loremflickr.com/640/480?lock=5481820682452992",
       "id": 3
-    },
-    {
-      "albumId": 11,
-      "url": "https://loremflickr.com/640/480?lock=2021929699508224",
-      "id": 4
     },
     {
       "albumId": 11,
@@ -152,6 +168,76 @@
       "albumId": 18,
       "url": "https://picsum.photos/seed/FDUgx/640/480",
       "id": 9
+    },
+    {
+      "albumId": 21,
+      "url": "https://picsum.photos/seed/VBFnnx/640/480",
+      "id": 15
+    },
+    {
+      "albumId": 22,
+      "url": "https://picsum.photos/seed/sMSvHADJ/640/480",
+      "id": 16
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/640/480?lock=2293753440108544",
+      "id": 18
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/640/480?lock=819074393178112",
+      "id": 19
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=6779702528180224",
+      "id": 20
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=1616532226441216",
+      "id": 21
+    },
+    {
+      "albumId": 14,
+      "url": "https://picsum.photos/seed/c9syM98C/640/480",
+      "id": 22
+    },
+    {
+      "albumId": 14,
+      "url": "https://picsum.photos/seed/BPia2/640/480",
+      "id": 23
+    },
+    {
+      "albumId": 24,
+      "url": "https://picsum.photos/seed/WumBOc/640/480",
+      "id": 26
+    },
+    {
+      "albumId": 24,
+      "url": "https://picsum.photos/seed/9qJxja/640/480",
+      "id": 27
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/640/480?lock=6031627400511488",
+      "id": 28
+    },
+    {
+      "albumId": 25,
+      "url": "https://picsum.photos/seed/aM5FeBPri/640/480",
+      "id": 29
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/640/480?lock=3736805610356736",
+      "id": 30
+    },
+    {
+      "albumId": 25,
+      "url": "https://picsum.photos/seed/8Ob8xDMPt/640/480",
+      "id": 31
     }
   ]
 }

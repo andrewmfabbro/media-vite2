@@ -25,20 +25,20 @@ function UsersList() {
 
   let content;
   if (isLoadingUsers) {
-    content = <Skeleton times={6} className="h-10 w-full" />; //set box amount with times
+    const skeletonCount = data?.length || 17; // Set box amount, default to 6 if data is not available.
+    content = <Skeleton times={skeletonCount} className="h-10 w-full" />; 
   } else if (loadingUsersError) {
     content = <div>Error fetching data...</div>;
   } else {
     content = data.map((user) => {
       return <UsersListItem key={user.id} user={user} />;
-      
     });
   }
 
   return (
     <div>
       <div className="flex flex-row justify-between items-center m-3">
-        <h1 className="m-2 text-xl">Users</h1>
+        <h1 className="m-2 text-xl">Photo Album Users</h1>
 
         <Button loading={isCreatingUser} onClick={handleUserAdd}>
           + Add User
